@@ -61,6 +61,3 @@ ggsave("rdd_example.svg", p, width = 8, height = 5.2, units = "in",
        device = svglite::svglite)
 ```
 
-
-**Author:** Kasturi Kandalam  
-**Date:** 31/10/2025
